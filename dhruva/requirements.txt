@@ -1,0 +1,5 @@
+sacremoses
+subword_nmt
+mosestokenizer
+git+https://github.com/anoopkunchukuttan/indic_nlp_library
+ctranslate2==3.9.0

@@ -1,0 +1,5 @@
+$schema: https://azuremlschemas.azureedge.net/latest/model.schema.json
+name: nmt--iitb--models
+version: 1
+path: ../../dhruva
+type: triton_model
